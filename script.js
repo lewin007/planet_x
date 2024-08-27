@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", function() {
             thumbnailsContainer.appendChild(stickerDiv);
         }
     });
-});
+}); 
 
 // Filter stickers based on category
 function filterStickers() {
